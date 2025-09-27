@@ -21,7 +21,8 @@ It’s built using **FastAPI**, **SQLAlchemy**, and **SQLite** for simplicity.
     OPENAI_API_KEY=""
     GOOGLE_API_KEY=""
     MISTRAL_API_KEY=""
-        ```
+    
+    ```
 
 2. For Testing
 ```bash
