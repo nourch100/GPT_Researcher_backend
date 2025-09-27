@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+venv/
+.env
+
+*.pyc
+*.pyo
+*.pyd
+
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Alembic migration artifacts
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+
+
+# Coverage & test artifacts
+.coverage
+.pytest_cache/
+
