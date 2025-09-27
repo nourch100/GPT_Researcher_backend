@@ -9,8 +9,6 @@ venv/
 
 
 # SQLite database files
-*.db
-*.sqlite3
 
 # Alembic migration artifacts
 alembic/versions/*.pyc
